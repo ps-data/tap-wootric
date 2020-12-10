@@ -10,7 +10,7 @@ setup(name='tap-wootric',
       classifiers=['Programming Language :: Python :: 3 :: Only'],
       py_modules=['tap_CHANGEME'],
       install_requires=[
-          'singer-python==5.9.0',
+          'singer-python==5.9.1',
           'requests==2.20.0',
           'backoff==1.8.0'
       ],
